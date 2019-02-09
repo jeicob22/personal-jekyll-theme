@@ -17,3 +17,8 @@ _deploy/*
 Rakefile
 .jekyll-metadata
 /.idea/
+
+
+_custom_configs
+
+priv_img/
