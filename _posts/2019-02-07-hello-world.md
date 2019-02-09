@@ -34,7 +34,7 @@ No obstante... Esta solución es fatal a nivel de desarrollo: Tendré que crear 
 
 ## Jekyll: Un generador de webs estáticas
 
-Y, es aquí cuando recurro a una herramienta de la cual mi amigo [Esteban](https://nanusefue.io/) ([nanuse](https://github.com/nanusefue) en GitHub) me habla siempre, llamada Jekyll: Un generador de html mediante archivos de texto llano. La transformación del texto a una web con cara y ojos la llevaremos a cabo en nuestro ordenador, y subiremos a nuestro servicio de hosting, o vps, o servidor dedicado, ... Exclusivamente la web (html+css+javascript) ya generada.
+Y, es aquí cuando recurro a una herramienta de la cual mi amigo [Esteban](https://nanusefue.io/) ([nanusefue](https://github.com/nanusefue) en GitHub) me habla siempre, llamada Jekyll: Un generador de html mediante archivos de texto llano. La transformación del texto a una web con cara y ojos la llevaremos a cabo en nuestro ordenador, y subiremos a nuestro servicio de hosting, o vps, o servidor dedicado, ... Exclusivamente la web (html+css+javascript) ya generada.
 
 Así como punto de partida, no voy a centrarme en el diseño de la web. Tengo amigos muy buenos en este campo que, de seguro que me podrán echar un cable llegado el momento. De momento voy a utilizar algún template ya generado de Jekyll por un tercero. No es necesario buscar mucho, simplemente en google puedes buscar: "Jekyll templates" y escoger el que más te guste. Es importante revisar antes las licencias para asegurarte de que el uso que le vas a dar a ese código sea acorde a la licencia que este tiene atribuida. Ten en cuenta que quizás tengas que pagar para hacer algún uso comercial, etc. Es muy importante tener esto en cuenta.
 
